@@ -1,0 +1,128 @@
+{
+    "topics": [
+        {
+            "title": "思い出に残っている懐かしいゲーム機は？",
+            "color": "teal",
+            "image_path": "img/game/",
+            "contents": [
+                {
+                    "title": "ゲームボーイアドバンス",
+                    "gen": "1998",
+                    "img": "image1.jpg"
+                },
+                {
+                    "title": "ニンテンドーDS",
+                    "gen": "2001",
+                    "img": "image2.jpg"
+                },
+                {
+                    "title": "Wii",
+                    "gen": "2007",
+                    "img": "image3.jpg"
+                },
+                {
+                    "title": "ニンテンドーDSi",
+                    "gen": "2008",
+                    "img": "image4.jpg"
+                },
+                {
+                    "title": "ニンテンドー3DS",
+                    "gen": "2011",
+                    "img": "image5.jpg"
+                },
+                {
+                    "title": "WiiU",
+                    "gen": "2013",
+                    "img": "image6.jpg"
+                },
+                {
+                    "title": "PlayStation",
+                    "gen": "2005",
+                    "img": "image7.jpg"
+                },
+                {
+                    "title": "PlayStation Portable",
+                    "gen": "2009",
+                    "img": "image8.jpg"
+                }
+            ],
+            "isVisible": "true"
+        },
+        {
+            "title": "思い出に残っている懐かしいジブリ作品は？",
+            "color": "pink darken-2",
+            "image_path": "img/ghibli/",
+            "contents": [
+                {
+                    "title": "となりのトトロ",
+                    "gen": "1983",
+                    "img": "image1.jpg"
+                },
+                {
+                    "title": "魔女の宅急便",
+                    "gen": "2000",
+                    "img": "image2.jpg"
+                },
+                {
+                    "title": "もののけ姫",
+                    "gen": "2006",
+                    "img": "image3.jpg"
+                },
+                {
+                    "title": "千と千尋の神隠し",
+                    "gen": "2000",
+                    "img": "image4.jpg"
+                },
+                {
+                    "title": "ハウルの動く城",
+                    "gen": "2007",
+                    "img": "image5.jpg"
+                },
+                {
+                    "title": "崖の上のポニョ",
+                    "gen": "2009",
+                    "img": "image6.jpg"
+                }
+            ],
+            "isVisible": "true"
+        },
+        {
+            "title": "思い出に残っている懐かしいアニメは？",
+            "color": "primary darken-2",
+            "image_path": "img/anime/",
+            "contents": [
+                {
+                    "title": "ポケットモンスター",
+                    "gen": "2003",
+                    "img": "image1.jpg"
+                },
+                {
+                    "title": "ドラえもん",
+                    "gen": "2001",
+                    "img": "image2.jpg"
+                },
+                {
+                    "title": "イナズマイレブン",
+                    "gen": "2009",
+                    "img": "image3.jpg"
+                },
+                {
+                    "title": "ドラゴンボール",
+                    "gen": "2007",
+                    "img": "image4.jpg"
+                },
+                {
+                    "title": "トリコ",
+                    "gen": "2011",
+                    "img": "image5.jpg"
+                },
+                {
+                    "title": "黒子のバスケ",
+                    "gen": "2012",
+                    "img": "image6.jpg"
+                }
+            ],
+            "isVisible": "true"
+        }
+    ]
+}

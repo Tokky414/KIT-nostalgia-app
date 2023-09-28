@@ -1,0 +1,85 @@
+{
+    "data": {
+        "type": "standard",
+        "title": "ゲームボーイアドバンス",
+        "displaytitle": "<span class=\"mw-page-title-main\">ゲームボーイアドバンス</span>",
+        "namespace": {
+            "id": 0,
+            "text": ""
+        },
+        "wikibase_item": "Q188642",
+        "titles": {
+            "canonical": "ゲームボーイアドバンス",
+            "normalized": "ゲームボーイアドバンス",
+            "display": "<span class=\"mw-page-title-main\">ゲームボーイアドバンス</span>"
+        },
+        "pageid": 408879,
+        "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Nintendo-Game-Boy-Advance-Purple-FL.png/320px-Nintendo-Game-Boy-Advance-Purple-FL.png",
+            "width": 320,
+            "height": 221
+        },
+        "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Nintendo-Game-Boy-Advance-Purple-FL.png",
+            "width": 4200,
+            "height": 2900
+        },
+        "lang": "ja",
+        "dir": "ltr",
+        "revision": "96246242",
+        "tid": "39d3c670-38cf-11ee-9736-eda251d1479d",
+        "timestamp": "2023-08-02T10:53:18Z",
+        "description": "かつて任天堂が製造販売した携帯型ゲーム機",
+        "description_source": "central",
+        "content_urls": {
+            "desktop": {
+                "page": "https://ja.wikipedia.org/wiki/%E3%82%B2%E3%83%BC%E3%83%A0%E3%83%9C%E3%83%BC%E3%82%A4%E3%82%A2%E3%83%89%E3%83%90%E3%83%B3%E3%82%B9",
+                "revisions": "https://ja.wikipedia.org/wiki/%E3%82%B2%E3%83%BC%E3%83%A0%E3%83%9C%E3%83%BC%E3%82%A4%E3%82%A2%E3%83%89%E3%83%90%E3%83%B3%E3%82%B9?action=history",
+                "edit": "https://ja.wikipedia.org/wiki/%E3%82%B2%E3%83%BC%E3%83%A0%E3%83%9C%E3%83%BC%E3%82%A4%E3%82%A2%E3%83%89%E3%83%90%E3%83%B3%E3%82%B9?action=edit",
+                "talk": "https://ja.wikipedia.org/wiki/%E3%83%8E%E3%83%BC%E3%83%88:%E3%82%B2%E3%83%BC%E3%83%A0%E3%83%9C%E3%83%BC%E3%82%A4%E3%82%A2%E3%83%89%E3%83%90%E3%83%B3%E3%82%B9"
+            },
+            "mobile": {
+                "page": "https://ja.m.wikipedia.org/wiki/%E3%82%B2%E3%83%BC%E3%83%A0%E3%83%9C%E3%83%BC%E3%82%A4%E3%82%A2%E3%83%89%E3%83%90%E3%83%B3%E3%82%B9",
+                "revisions": "https://ja.m.wikipedia.org/wiki/Special:History/%E3%82%B2%E3%83%BC%E3%83%A0%E3%83%9C%E3%83%BC%E3%82%A4%E3%82%A2%E3%83%89%E3%83%90%E3%83%B3%E3%82%B9",
+                "edit": "https://ja.m.wikipedia.org/wiki/%E3%82%B2%E3%83%BC%E3%83%A0%E3%83%9C%E3%83%BC%E3%82%A4%E3%82%A2%E3%83%89%E3%83%90%E3%83%B3%E3%82%B9?action=edit",
+                "talk": "https://ja.m.wikipedia.org/wiki/%E3%83%8E%E3%83%BC%E3%83%88:%E3%82%B2%E3%83%BC%E3%83%A0%E3%83%9C%E3%83%BC%E3%82%A4%E3%82%A2%E3%83%89%E3%83%90%E3%83%B3%E3%82%B9"
+            }
+        },
+        "extract": "ゲームボーイアドバンス は、任天堂が開発した携帯型ゲーム機。日本では2001年3月21日に発売された。略称は「GBA」。21世紀最初の任天堂の携帯型ゲーム機に当たる。",
+        "extract_html": "<p><b>ゲームボーイアドバンス</b> は、任天堂が開発した携帯型ゲーム機。日本では2001年3月21日に発売された。略称は「<b>GBA</b>」。21世紀最初の任天堂の携帯型ゲーム機に当たる。</p>"
+    },
+    "status": 200,
+    "statusText": "",
+    "headers": {
+        "cache-control": "s-maxage=1209600, max-age=300",
+        "content-language": "ja",
+        "content-length": "845",
+        "content-type": "application/json; charset=utf-8; profile=\"https://www.mediawiki.org/wiki/Specs/Summary/1.5.0\"",
+        "etag": "W/\"96246242/3aa59560-38cf-11ee-a77c-bd52ddf413ac\""
+    },
+    "config": {
+        "url": "https://ja.wikipedia.org/api/rest_v1/page/summary/ゲームボーイアドバンス",
+        "method": "get",
+        "headers": {
+            "Accept": "application/json, text/plain, */*"
+        },
+        "baseURL": "/",
+        "transformRequest": [
+            null
+        ],
+        "transformResponse": [
+            null
+        ],
+        "timeout": 0,
+        "xsrfCookieName": "XSRF-TOKEN",
+        "xsrfHeaderName": "X-XSRF-TOKEN",
+        "maxContentLength": -1,
+        "maxBodyLength": -1,
+        "transitional": {
+            "silentJSONParsing": true,
+            "forcedJSONParsing": true,
+            "clarifyTimeoutError": false
+        }
+    },
+    "request": {}
+}
