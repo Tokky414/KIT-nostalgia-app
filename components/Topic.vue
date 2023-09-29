@@ -224,7 +224,7 @@ export default {
 
       // }
     } else { // なければ元のjsonを表示
-      this.topics = this.getTopics;
+      this.topics = topicsJson.topics;
     }
   },
   // 変更時に実行

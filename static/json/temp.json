@@ -3,7 +3,7 @@
         {
             "title": "思い出に残っている懐かしいゲーム機は？",
             "color": "teal",
-            "image_path": "img/game/",
+            "image_path": "/img/game/",
             "contents": [
                 {
                     "title": "ゲームボーイアドバンス",
