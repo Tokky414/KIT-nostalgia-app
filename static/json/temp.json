@@ -51,7 +51,7 @@
         {
             "title": "思い出に残っている懐かしいジブリ作品は？",
             "color": "pink darken-2",
-            "image_path": "img/ghibli/",
+            "image_path": "/img/ghibli/",
             "contents": [
                 {
                     "title": "となりのトトロ",
@@ -89,7 +89,7 @@
         {
             "title": "思い出に残っている懐かしいアニメは？",
             "color": "primary darken-2",
-            "image_path": "img/anime/",
+            "image_path": "/img/anime/",
             "contents": [
                 {
                     "title": "ポケットモンスター",
