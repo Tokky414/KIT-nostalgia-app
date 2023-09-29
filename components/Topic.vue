@@ -128,7 +128,7 @@
             width="auto"
           >
             <div class="d-flex justify-center align-center ma-5">
-              <v-img :src="selectedTopic.image_path + content.img" contain height="200px" width="200px">
+              <v-img :src="'..' + selectedTopic.image_path + content.img" contain height="200px" width="200px">
                 <!-- 年代のチップを表示、オーバーレイ -->
                 <v-sheet 
                 style="position: absolute; top: 0; right: 0; font-weight: bold;"

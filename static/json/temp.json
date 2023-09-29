@@ -51,7 +51,7 @@
         {
             "title": "思い出に残っている懐かしいジブリ作品は？",
             "color": "pink darken-2",
-            "image_path": "../img/ghibli/",
+            "image_path": "/img/ghibli/",
             "contents": [
                 {
                     "title": "となりのトトロ",
