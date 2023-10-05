@@ -3,47 +3,62 @@
         {
             "title": "思い出に残っている懐かしいゲーム機は？",
             "color": "teal",
-            "image_path": "/img/game/",
+            "image_path": "/img/nostalgia/game/",
             "contents": [
                 {
-                    "title": "ゲームボーイアドバンス",
-                    "gen": "1998",
+                    "title": "NINTENDO64",
+                    "gen": "1996",
                     "img": "image1.jpg"
                 },
                 {
-                    "title": "ニンテンドーDS",
-                    "gen": "2001",
+                    "title": "PlayStation2",
+                    "gen": "2000",
                     "img": "image2.jpg"
                 },
                 {
-                    "title": "Wii",
-                    "gen": "2007",
+                    "title": "ゲームボーイアドバンス",
+                    "gen": "2001",
                     "img": "image3.jpg"
+                },
+                {
+                    "title": "ニンテンドーゲームキューブ",
+                    "gen": "2001",
+                    "img": "image4.jpg"
+                },
+                {
+                    "title": "ニンテンドーDS",
+                    "gen": "2004",
+                    "img": "image5.jpg"
+                },
+                {
+                    "title": "PlayStationPortable",
+                    "gen": "2004",
+                    "img": "image6.jpg"
+                },
+                {
+                    "title": "PlayStation3",
+                    "gen": "2006",
+                    "img": "image7.jpg"
+                },
+                {
+                    "title": "Wii",
+                    "gen": "2006",
+                    "img": "image8.jpg"
                 },
                 {
                     "title": "ニンテンドーDSi",
                     "gen": "2008",
-                    "img": "image4.jpg"
+                    "img": "image9.jpg"
                 },
                 {
                     "title": "ニンテンドー3DS",
                     "gen": "2011",
-                    "img": "image5.jpg"
+                    "img": "image10.jpg"
                 },
                 {
                     "title": "WiiU",
-                    "gen": "2013",
-                    "img": "image6.jpg"
-                },
-                {
-                    "title": "PlayStation",
-                    "gen": "2005",
-                    "img": "image7.jpg"
-                },
-                {
-                    "title": "PlayStation Portable",
-                    "gen": "2009",
-                    "img": "image8.jpg"
+                    "gen": "2012",
+                    "img": "image11.jpg"
                 }
             ],
             "isVisible": "true"
@@ -51,75 +66,145 @@
         {
             "title": "思い出に残っている懐かしいジブリ作品は？",
             "color": "pink darken-2",
-            "image_path": "/img/ghibli/",
+            "image_path": "/img/nostalgia/ghibli/",
             "contents": [
                 {
-                    "title": "となりのトトロ",
-                    "gen": "1983",
+                    "title": "風の谷のナウシカ",
+                    "gen": "1984",
                     "img": "image1.jpg"
                 },
                 {
-                    "title": "魔女の宅急便",
-                    "gen": "2000",
+                    "title": "天空の城ラピュタ",
+                    "gen": "1986",
                     "img": "image2.jpg"
                 },
                 {
-                    "title": "もののけ姫",
-                    "gen": "2006",
+                    "title": "となりのトトロ",
+                    "gen": "1988",
                     "img": "image3.jpg"
                 },
                 {
-                    "title": "千と千尋の神隠し",
-                    "gen": "2000",
+                    "title": "紅の豚",
+                    "gen": "1992",
                     "img": "image4.jpg"
                 },
                 {
-                    "title": "ハウルの動く城",
-                    "gen": "2007",
+                    "title": "耳をすませば",
+                    "gen": "1995",
                     "img": "image5.jpg"
                 },
                 {
-                    "title": "崖の上のポニョ",
-                    "gen": "2009",
+                    "title": "もののけ姫",
+                    "gen": "1997",
                     "img": "image6.jpg"
+                },
+                {
+                    "title": "千と千尋の神隠し",
+                    "gen": "2001",
+                    "img": "image7.jpg"
+                },
+                {
+                    "title": "ハウルの動く城",
+                    "gen": "2004",
+                    "img": "image8.jpg"
+                },
+                {
+                    "title": "崖の上のポニョ",
+                    "gen": "2008",
+                    "img": "image9.jpg"
+                },
+                {
+                    "title": "借りぐらしのアリエッティ",
+                    "gen": "2010",
+                    "img": "image10.jpg"
+                },
+                {
+                    "title": "コクリコ坂から",
+                    "gen": "2011",
+                    "img": "image11.jpg"
+                },
+                {
+                    "title": "風立ちぬ",
+                    "gen": "2013",
+                    "img": "image12.jpg"
                 }
             ],
             "isVisible": "true"
         },
         {
             "title": "思い出に残っている懐かしいアニメは？",
-            "color": "primary darken-2",
-            "image_path": "/img/anime/",
+            "color": "indigo",
+            "image_path": "/img/nostalgia/anime/",
             "contents": [
                 {
-                    "title": "ポケットモンスター",
-                    "gen": "2003",
-                    "img": "image1.jpg"
+                    "title": "スラムダンク",
+                    "gen": "1993",
+                    "img": "slam.jpg"
+                },
+                {
+                    "title": "こちら葛飾区亀有公園前派出所",
+                    "gen": "1996",
+                    "img": "kochikame.jpg"
+                },
+                {
+                    "title": "ふたりはプリキュア",
+                    "gen": "2004",
+                    "img": "precure.jpg"
+                },
+                {
+                    "title": "メジャー",
+                    "gen": "2004",
+                    "img": "mejor.jpg"
+                },
+                {
+                    "title": "ケロロ軍曹",
+                    "gen": "2004",
+                    "img": "keroro.jpg"
                 },
                 {
                     "title": "ドラえもん",
-                    "gen": "2001",
-                    "img": "image2.jpg"
+                    "gen": "2005",
+                    "img": "doraemon.jpg"
+                },
+                {
+                    "title": "涼宮ハルヒの憂鬱",
+                    "gen": "2006",
+                    "img": "haruhi.jpg"
+                },
+                {
+                    "title": "ポケットモンスター D&P",
+                    "gen": "2006",
+                    "img": "pokemon.jpg"
                 },
                 {
                     "title": "イナズマイレブン",
-                    "gen": "2009",
-                    "img": "image3.jpg"
+                    "gen": "2008",
+                    "img": "inazuma.jpg"
                 },
                 {
-                    "title": "ドラゴンボール",
-                    "gen": "2007",
-                    "img": "image4.jpg"
+                    "title": "けいおん！",
+                    "gen": "2009",
+                    "img": "kon.jpg"
+                },
+                {
+                    "title": "たまごっち",
+                    "gen": "2009",
+                    "img": "tama.jpg"
+                },
+                {
+                    "title": "ドラゴンボール改",
+                    "gen": "2009",
+                    "img": "db.jpg"
                 },
                 {
                     "title": "トリコ",
                     "gen": "2011",
-                    "img": "image5.jpg"
+                    "img": "toriko.jpg"
                 },
                 {
                     "title": "黒子のバスケ",
                     "gen": "2012",
-                    "img": "image6.jpg"
+                    "img": "kuroko.jpg"
                 }
             ],
             "isVisible": "true"

@@ -141,7 +141,7 @@
     // 起動時に実行
     created() {
         // ローカルストレージからデータを読み込む
-        const storedData = localStorage.getItem('normalsData');
+        const storedData = localStorage.getItem('normalData');
         if (storedData) { // データがあればそれを表示
         this.topics = JSON.parse(storedData);
         //console.log(this.topics);

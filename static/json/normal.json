@@ -1,14 +1,49 @@
 {
     "topics": [
         {
-            "title": "最近の好きな食べ物は？",
+            "title": "好きな食べ物は？",
             "color": "teal",
-            "image_path": "",
+            "image_path": "/img/normal/food/",
             "contents": [
                 {
-                    "title": "",
+                    "title": "お寿司",
                     "gen": "",
-                    "img": ""
+                    "img": "sushi.jpg"
+                },
+                {
+                    "title": "ラーメン",
+                    "gen": "",
+                    "img": "ramen.jpg"
+                },
+                {
+                    "title": "カレーライス",
+                    "gen": "",
+                    "img": "curry.jpg"
+                },
+                {
+                    "title": "パスタ",
+                    "gen": "",
+                    "img": "pasta.jpg"
+                },
+                {
+                    "title": "焼肉",
+                    "gen": "",
+                    "img": "niku.jpg"
+                },
+                {
+                    "title": "ハンバーグ",
+                    "gen": "",
+                    "img": "hanm.jpg"
+                },
+                {
+                    "title": "ピザ",
+                    "gen": "",
+                    "img": "piza.jpg"
+                },
+                {
+                    "title": "とんかつ",
+                    "gen": "",
+                    "img": "katsu.jpg"
                 }
             ],
             "isVisible": "true"
@@ -16,25 +51,85 @@
         {
             "title": "現在しているアルバイトは？",
             "color": "pink darken-2",
-            "image_path": "",
+            "image_path": "/img/normal/baito/",
             "contents": [
                 {
-                    "title": "",
+                    "title": "塾講師",
                     "gen": "",
-                    "img": ""
+                    "img": "juku.jpg"
+                },
+                {
+                    "title": "飲食店",
+                    "gen": "",
+                    "img": "food.jpg"
+                },
+                {
+                    "title": "ホテル",
+                    "gen": "",
+                    "img": "hotel.jpg"
+                },
+                {
+                    "title": "本屋",
+                    "gen": "",
+                    "img": "book.jpg"
+                },
+                {
+                    "title": "スーパーマーケット",
+                    "gen": "",
+                    "img": "super.jpg"
+                },
+                {
+                    "title": "コンビニ",
+                    "gen": "",
+                    "img": "conv.jpg"
                 }
             ],
             "isVisible": "true"
         },
         {
-            "title": "地元はどんなところですか？",
-            "color": "primary darken-2",
-            "image_path": "",
+            "title": "出身地はどこですか？",
+            "color": "indigo",
+            "image_path": "/img/normal/from/",
             "contents": [
                 {
-                    "title": "",
+                    "title": "近畿",
                     "gen": "",
-                    "img": ""
+                    "img": "kinki.jpg"
+                },
+                {
+                    "title": "中部",
+                    "gen": "",
+                    "img": "chuubu.jpg"
+                },
+                {
+                    "title": "関東",
+                    "gen": "",
+                    "img": "kantou.jpg"
+                },
+                {
+                    "title": "中国",
+                    "gen": "",
+                    "img": "chuugoku.jpg"
+                },
+                {
+                    "title": "四国",
+                    "gen": "",
+                    "img": "shikoku.jpg"
+                },
+                {
+                    "title": "東北",
+                    "gen": "",
+                    "img": "touhoku.jpg"
+                },
+                {
+                    "title": "九州",
+                    "gen": "",
+                    "img": "kyushu.jpg"
+                },
+                {
+                    "title": "北海道",
+                    "gen": "",
+                    "img": "hokkaidou.jpg"
                 }
             ],
             "isVisible": "true"

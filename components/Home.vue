@@ -19,7 +19,7 @@
           >
             <v-card 
             height="auto"
-            class="ma-5"
+            class="ma-sm-5"
             link
             shaped
             :to="menu.link"
@@ -56,12 +56,12 @@
             icon:"mdi-account-voice",
             link:"/normal"
           },
-          {
-            title: "パーソナライズされたノスタルジアな話題",
-            explain: "懐かしさを想起させる話題を年齢と性別から分析して提供します（未実装）",
-            icon:"mdi-account-voice",
-            link:"/profile"
-          },
+          // {
+          //   title: "パーソナライズされたノスタルジアな話題",
+          //   explain: "懐かしさを想起させる話題を年齢と性別から分析して提供します（未実装）",
+          //   icon:"mdi-account-voice",
+          //   link:"/profile"
+          // },
           {
             title: "話題の表示設定",
             explain: "表示する話題の設定を行います（ローカルストレージを使用）",

@@ -155,7 +155,7 @@
           </v-card>
         </v-col>
         <!-- 最後の要素に、新規追加カード -->
-        <v-col cols="12" sm="6" md="3" class="d-flex child-flex">
+        <!-- <v-col cols="12" sm="6" md="3" class="d-flex child-flex">
           <v-card
             hover
             class="mx-auto mt-5 transition-swing"
@@ -179,7 +179,7 @@
               新しいノスタルジアを追加
             </v-card-title>
           </v-card>
-        </v-col>
+        </v-col> -->
       </v-row>
     </v-container>
   </div>
@@ -220,9 +220,6 @@ export default {
       this.topics = JSON.parse(storedData);
       //console.log(this.topics);
       this.topics = this.topics.filter(topic => topic.isVisible);
-      // if(!this.topics){
-
-      // }
     } else { // なければ元のjsonを表示
       this.topics = this.getTopics;
     }
@@ -264,10 +261,8 @@ export default {
     sortContents() {
       // 昇順・降順の切り替え
       const orderMultiplier = this.isAscendingOrder ? 1 : -1;
-
-      // Genでソートするロジック
+      // genでソート
       this.selectedTopic.contents.sort((a, b) => orderMultiplier * (a.gen - b.gen));
-
       // 切り替え
       this.isAscendingOrder = !this.isAscendingOrder;
     }
