@@ -1,5 +1,6 @@
 <template>
-    <div>
+    <div class="main"
+         style="height: 100%;">
       <v-app-bar dark color="teal" height="100px" app fixed>
         <v-spacer></v-spacer>
         <v-toolbar-title
@@ -113,6 +114,9 @@
   </script>
   
   <style scoped>
+  .main {
+    background-color: #f5f5f5;
+  }
   /* CSSファイルまたは<style>セクション内で */
   .fade-enter-active, .fade-leave-active {
       transition: opacity 0.5s;

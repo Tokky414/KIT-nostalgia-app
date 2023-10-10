@@ -1,5 +1,12 @@
 <template>
-  <div class="main">
+  <div class="main"
+  style="height: 100%;"
+  v-touch="{
+        left: () => swipe('Left'),
+        right: () => swipe('Right'),
+        up: () => swipe('Up'),
+        down: () => swipe('Down'),
+      }">
     <!-- ーーーーーーーーーーーーーーーーーー -->
     <!-- 話題提示を行うカルーセル 　-->
     <!-- ーーーーーーーーーーーーーーーーーー　　-->
@@ -105,13 +112,7 @@
       <v-icon x-large>{{ isAscendingOrder ? 'mdi-sort-descending' : 'mdi-sort-ascending' }}</v-icon>
     </v-btn>
     <!-- 縦の要素 -->
-      <v-row
-      v-touch="{
-        left: () => swipe('Left'),
-        right: () => swipe('Right'),
-        up: () => swipe('Up'),
-        down: () => swipe('Down'),
-      }">
+      <v-row>
         <!-- 横の要素 -->
         <v-col
           v-for="(content, index) in selectedTopic.contents"

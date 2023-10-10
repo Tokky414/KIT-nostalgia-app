@@ -133,6 +133,18 @@
                 }
             ],
             "isVisible": "true"
+        },
+        {
+            "title": "趣味は何ですか？",
+            "color": "brown darken-2",
+            "image_path": "/img/normal/from/",
+            "contents": [
+                {
+                    "title": "近畿",
+                    "gen": "",
+                    "img": "kinki.jpg"
+                }
+            ]
         }
     ]
 }

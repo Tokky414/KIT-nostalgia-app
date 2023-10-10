@@ -208,6 +208,74 @@
                 }
             ],
             "isVisible": "true"
+        },
+        {
+            "title": "思い出に残っている教育番組は？",
+            "color": "brown darken-2",
+            "image_path": "/img/nostalgia/eduTV/",
+            "contents": [
+                {
+                    "title": "つくってあそぼ",
+                    "gen": "1990",
+                    "img": "wakuwaku.jpg"
+                },
+                {
+                    "title": "おじゃる丸",
+                    "gen": "1998",
+                    "img": "ojaru.jpg"
+                },
+                {
+                    "title": "ピタゴラスイッチ",
+                    "gen": "2002",
+                    "img": "pitagora.jpg"
+                },
+                {
+                    "title": "いないいないばあっ！(ふうか)",
+                    "gen": "2003",
+                    "img": "inaiinaiba.jpg"
+                },
+                {
+                    "title": "おかあさんといっしょ",
+                    "gen": "2003",
+                    "img": "mother.jpg"
+                },
+                {
+                    "title": "クインテット",
+                    "gen": "2003",
+                    "img": "quin.jpg"
+                },
+                {
+                    "title": "ぜんまいざむらい",
+                    "gen": "2006",
+                    "img": "zenmai.jpg"
+                },
+                {
+                    "title": "おしりかじり虫",
+                    "gen": "2007",
+                    "img": "oshiri.jpg"
+                },
+                {
+                    "title": "シャキーン！",
+                    "gen": "2008",
+                    "img": "shakin.jpg"
+                },
+                {
+                    "title": "アイ！マイ！まいん！",
+                    "gen": "2009",
+                    "img": "main.jpg"
+                },
+                {
+                    "title": "みいつけた!",
+                    "gen": "2009",
+                    "img": "mitsuketa.jpg"
+                },
+                {
+                    "title": "はなかっぱ",
+                    "gen": "2010",
+                    "img": "hana.jpg"
+                }
+            ],
+            "isVisible": "true"
         }
     ]
 }
