@@ -53,8 +53,9 @@ export default {
   // PWA module configuration: https://go.nuxtjs.dev/pwa
   pwa: {
     manifest: {
-      lang: 'jp'
-    }
+      name: 'Nostalgia Talk',
+      lang: 'jp',
+    },
   },
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
