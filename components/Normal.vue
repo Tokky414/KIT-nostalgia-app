@@ -92,7 +92,7 @@
         </v-btn>
       </v-speed-dial>
       <!-- 縦の要素 -->
-      <v-row>
+      <v-row class="mb-5">
         <!-- 横の要素 -->
         <v-col
           v-for="(content, index) in selectedTopic.contents"

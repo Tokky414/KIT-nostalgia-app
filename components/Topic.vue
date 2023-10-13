@@ -112,7 +112,7 @@
       <v-icon x-large>{{ isAscendingOrder ? 'mdi-sort-descending' : 'mdi-sort-ascending' }}</v-icon>
     </v-btn>
     <!-- 縦の要素 -->
-      <v-row>
+      <v-row class="mb-5">
         <!-- 横の要素 -->
         <v-col
           v-for="(content, index) in selectedTopic.contents"

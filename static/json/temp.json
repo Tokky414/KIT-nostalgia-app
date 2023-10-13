@@ -2,7 +2,7 @@
     "topics": [
         {
             "title": "思い出に残っている懐かしいゲーム機は？",
-            "color": "teal",
+            "color": "teal darken-1",
             "image_path": "/img/nostalgia/game/",
             "contents": [
                 {
@@ -273,6 +273,288 @@
                     "title": "はなかっぱ",
                     "gen": "2010",
                     "img": "hana.jpg"
+                }
+            ],
+            "isVisible": "true"
+        },
+        {
+            "title": "思い出に残っているDSゲームソフトは？",
+            "color": "blue-grey darken-1",
+            "image_path": "/img/nostalgia/ds/",
+            "contents": [
+                {
+                    "title": "スーパーマリオ64 DS",
+                    "gen": "2004",
+                    "img": "mario64.jpg"
+                },
+                {
+                    "title": "脳を鍛える大人のDSトレーニング",
+                    "gen": "2005",
+                    "img": "brain.jpg"
+                },
+                {
+                    "title": "マリオカートDS",
+                    "gen": "2005",
+                    "img": "marica.jpg"
+                },
+                {
+                    "title": "おいでよ、どうぶつの森",
+                    "gen": "2005",
+                    "img": "oideyo.jpg"
+                },
+                {
+                    "title": "Newスーパーマリオブラザーズ",
+                    "gen": "2006",
+                    "img": "newMari.jpg"
+                },
+                {
+                    "title": "ポケットモンスター D&P",
+                    "gen": "2006",
+                    "img": "pokeDP.jpg"
+                },
+                {
+                    "title": "ゼルダの伝説 夢幻の砂時計",
+                    "gen": "2007",
+                    "img": "zelda.jpg"
+                },
+                {
+                    "title": "マリオパーティDS",
+                    "gen": "2007",
+                    "img": "maripa.jpg"
+                },
+                {
+                    "title": "リズム天国ゴールド",
+                    "gen": "2008",
+                    "img": "rizm.jpg"
+                },
+                {
+                    "title": "星のカービィ ウルトラスーパーデラックス",
+                    "gen": "2008",
+                    "img": "urutra.jpg"
+                },
+                {
+                    "title": "トモダチコレクション",
+                    "gen": "2009",
+                    "img": "tomo.jpg"
+                },
+                {
+                    "title": "ドラゴンクエストⅨ 星空の守り人",
+                    "gen": "2009",
+                    "img": "dq9.jpg"
+                },
+                {
+                    "title": "ポケットモンスター HG&SS",
+                    "gen": "2009",
+                    "img": "pokeHGSS.jpg"
+                },
+                {
+                    "title": "ポケットモンスター B&W",
+                    "gen": "2010",
+                    "img": "pokeBW.jpg"
+                }
+            ],
+            "isVisible": "true"
+        },
+        {
+            "title": "思い出に残っている3DSゲームソフトは？",
+            "color": "deep-purple darken-3",
+            "image_path": "/img/nostalgia/3ds/",
+            "contents": [
+                {
+                    "title": "すれちがいMii広場",
+                    "gen": "2011",
+                    "img": "surechigai.jpg"
+                },
+                {
+                    "title": "いつの間に交換日記",
+                    "gen": "2011",
+                    "img": "nikki.jpg"
+                },
+                {
+                    "title": "マリオカート7",
+                    "gen": "2011",
+                    "img": "marica7.jpg"
+                },
+                {
+                    "title": "ゼルダの伝説 時のオカリナ 3D",
+                    "gen": "2011",
+                    "img": "zelda.jpg"
+                },
+                {
+                    "title": "電波人間のRPG",
+                    "gen": "2012",
+                    "img": "denpa.jpg"
+                },
+                {
+                    "title": "ドラゴンクエストモンスターズ テリーのワンダーランド3D",
+                    "gen": "2012",
+                    "img": "teriwan.jpg"
+                },
+                {
+                    "title": "Newスーパーマリオブラザーズ2",
+                    "gen": "2012",
+                    "img": "mario2.jpg"
+                },
+                {
+                    "title": "とびだせ どうぶつの森",
+                    "gen": "2012",
+                    "img": "tobidase.jpg"
+                },
+                {
+                    "title": "妖怪ウォッチ",
+                    "gen": "2013",
+                    "img": "yokai.jpg"
+                },
+                {
+                    "title": "モンスターハンター4",
+                    "gen": "2013",
+                    "img": "monhan.jpg"
+                },
+                {
+                    "title": "ポケットモンスター X&Y",
+                    "gen": "2013",
+                    "img": "pokeXY.jpg"
+                },
+                {
+                    "title": "星のカービィ トリプルデラックス",
+                    "gen": "2014",
+                    "img": "triple.jpg"
+                }
+            ],
+            "isVisible": "true"
+        },
+        {
+            "title": "思い出に残っているWiiゲームソフトは？",
+            "color": "light-blue darken-3",
+            "image_path": "/img/nostalgia/wii/",
+            "contents": [
+                {
+                    "title": "はじめてのwii",
+                    "gen": "2006",
+                    "img": "hajimete.jpg"
+                },
+                {
+                    "title": "マリオパーティ8",
+                    "gen": "2007",
+                    "img": "maripa.jpg"
+                },
+                {
+                    "title": "スーパーマリオギャラクシー",
+                    "gen": "2007",
+                    "img": "gyalaxy.jpg"
+                },
+                {
+                    "title": "Wii Fit",
+                    "gen": "2007",
+                    "img": "fit.jpg"
+                },
+                {
+                    "title": "大乱闘スマッシュブラザーズX",
+                    "gen": "2008",
+                    "img": "smash.jpg"
+                },
+                {
+                    "title": "マリオカートWii",
+                    "gen": "2008",
+                    "img": "maricaWii.jpg"
+                },
+                {
+                    "title": "街へいこうよ どうぶつの森",
+                    "gen": "2008",
+                    "img": "machihe.jpg"
+                },
+                {
+                    "title": "Wii Sports Resort",
+                    "gen": "2009",
+                    "img": "sports.jpg"
+                },
+                {
+                    "title": "NewスーパーマリオブラザーズWii",
+                    "gen": "2009",
+                    "img": "marioWii.jpg"
+                },
+                {
+                    "title": "Wii Party",
+                    "gen": "2010",
+                    "img": "party.jpg"
+                },
+                {
+                    "title": "みんなのリズム天国",
+                    "gen": "2011",
+                    "img": "rizm.jpg"
+                },
+                {
+                    "title": "星のカービィWii",
+                    "gen": "2011",
+                    "img": "kirbyWii.jpg"
+                }
+            ],
+            "isVisible": "true"
+        },
+        {
+            "title": "思い出に残っている懐かしいアーケードゲームは？",
+            "color": "deep-orange darken-4",
+            "image_path": "/img/nostalgia/ACcard/",
+            "contents": [
+                {
+                    "title": "甲虫王者ムシキング",
+                    "gen": "2003",
+                    "img": "mushi.jpg"
+                },
+                {
+                    "title": "オシャレ魔女♥ラブandベリー",
+                    "gen": "2004",
+                    "img": "love.jpg"
+                },
+                {
+                    "title": "古代王者恐竜キング",
+                    "gen": "2005",
+                    "img": "kyoryu.jpg"
+                },
+                {
+                    "title": "NARUTO データカードダス",
+                    "gen": "2005",
+                    "img": "naruto.jpg"
+                },
+                {
+                    "title": "プリキュア データカードダス",
+                    "gen": "2007",
+                    "img": "precure.jpg"
+                },
+                {
+                    "title": "ポケモンバトリオ",
+                    "gen": "2007",
+                    "img": "batorio.jpg"
+                },
+                {
+                    "title": "ドラゴンクエスト モンスターバトルロード",
+                    "gen": "2007",
+                    "img": "dq.jpg"
+                },
+                {
+                    "title": "仮面ライダー ガンバライド",
+                    "gen": "2008",
+                    "img": "ganba.jpg"
+                },
+                {
+                    "title": "ワンピース ベリーマッチ",
+                    "gen": "2008",
+                    "img": "one.jpg"
+                },
+                {
+                    "title": "ドラゴンボールヒーローズ",
+                    "gen": "2010",
+                    "img": "hero.jpg"
+                },
+                {
+                    "title": "トリコ イタダキマスター",
+                    "gen": "2011",
+                    "img": "itadaki.jpg"
+                },
+                {
+                    "title": "アイカツ！",
+                    "gen": "2012",
+                    "img": "aikatsu.jpg"
                 }
             ],
             "isVisible": "true"
