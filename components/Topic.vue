@@ -189,7 +189,7 @@
 
 <script>
 // jsonをインポート
-import topicsJson from "../static/json/temp.json";
+import topicsJson from "../static/json/nostalgia.json";
 // 変数
 export default {
   data() {

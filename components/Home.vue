@@ -1,7 +1,7 @@
 <template>
     <div class="main"
          style="height: 100%;">
-      <v-app-bar dark color="teal" height="100px" app fixed>
+      <v-app-bar dark color="teal darken-1" height="100px" app fixed>
         <v-spacer></v-spacer>
         <v-toolbar-title
           class="text-center text-h6 text-sm-h5 font-weight-bold white--text"
@@ -53,7 +53,7 @@
           },
           {
             title: "通常の話題",
-            explain: "普段における通常の話題を提供します",
+            explain: "通常の話題を提供します",
             icon:"mdi-account-voice",
             link:"/normal"
           },

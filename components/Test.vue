@@ -122,7 +122,7 @@
 </template>
   
   <script>
-import topicsData from "../static/json/temp.json";
+import topicsData from "../static/json/nostalgia.json";
 import normalData from "../static/json/normal.json";
 
 export default {

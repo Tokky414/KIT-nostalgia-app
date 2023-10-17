@@ -1,7 +1,7 @@
 <template>
   <div class="main" style="height: 100%">
     <!-- メニューバー -->
-    <v-app-bar dark color="teal" height="100px" app>
+    <v-app-bar dark color="teal darken-1" height="100px" app>
       <v-btn icon absolute class="ml-3" @click="$router.go(-1)">
         <v-icon x-large>mdi-chevron-left</v-icon>
       </v-btn>
@@ -21,7 +21,7 @@
           <v-card>
             <v-tabs
               v-model="activeTab"
-              color="teal"
+              color="teal darken-1"
               background-color=""
               class="pa-sm-5"
             >
@@ -131,7 +131,7 @@
 </template>
     
 <script>
-import nostalgiaData from "../static/json/temp.json";
+import nostalgiaData from "../static/json/nostalgia.json";
 import normalData from "../static/json/normal.json";
 
 export default {
@@ -209,6 +209,7 @@ export default {
         location.reload();
       }
     },
+    // トピックの順番をランダムにする
     randomizeOrder(type) {
       if (type == this.nostalgia) {
         this.nosTopics = this.nosTopics

@@ -1,6 +1,6 @@
 <template>
   <div>
-    <v-app-bar dark color="teal" height="100px" app>
+    <v-app-bar dark color="teal darken-1" height="100px" app>
       <v-btn icon
       absolute
       class="ml-3"
