@@ -14,7 +14,7 @@
       <v-spacer></v-spacer>
     </v-app-bar>
     <!-- 以下、テーブルの表示 -->
-    <v-container fluid style="max-width: 95%; padding-top: 150px">
+    <v-container fluid style="max-width: 95%; padding-top: 120px">
       <v-row>
         <!-- タブ -->
         <v-col cols="12">

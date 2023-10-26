@@ -16,7 +16,7 @@
       hide-delimiter-background
       height="150"
       v-model="selectedNum"
-      style="position: fixed; top: 0; z-index: 999"
+      style="position: fixed; top: 0; z-index: 998"
     >
       <v-carousel-item v-for="(topic, i) in topics" :key="i">
         <v-sheet :color="topic.color" height="100%">
@@ -91,6 +91,14 @@
         to="/settings" nuxt
       >
         <v-icon>mdi-cog</v-icon>
+      </v-btn>
+      <v-btn
+        fab
+        dark
+        color="blue-grey darken"
+        @click="openDialog()"
+      >
+        <v-icon>mdi-format-quote-close</v-icon>
       </v-btn>
     </v-speed-dial>
     <!-- ソートボタン -->
@@ -182,6 +190,41 @@
           </v-card>
         </v-col> -->
       </v-row>
+
+      <!-- <v-btn
+        @click="openDialog()"
+        outlined
+        :color="selectedTopic.color"
+        class="ml-15 mb-5"
+      >
+        使用画像の出典
+      </v-btn> -->
+      <v-dialog
+        v-model="dialog"
+        width="600px"
+        style="z-index: 999"
+      >
+        <v-card>
+          <v-card-title>
+            <span class="text-h6">使用画像の出典一覧</span>
+          </v-card-title>
+          <v-divider></v-divider>
+          <v-card-text class="mt-5">
+            <div v-html="dialogTextWithLineBreaks"></div>
+          </v-card-text>
+          <v-divider></v-divider>
+          <v-card-actions>
+            <v-spacer></v-spacer>
+            <v-btn
+              :color="selectedTopic.color"
+              outlined
+              @click="dialog = false"
+            >
+              CLOSE
+            </v-btn>
+          </v-card-actions>
+        </v-card>
+      </v-dialog>
     </v-container>
   </div>
 </template>
@@ -190,6 +233,7 @@
 <script>
 // jsonをインポート
 import topicsJson from "../static/json/nostalgia.json";
+import axios from 'axios';
 // 変数
 export default {
   data() {
@@ -201,6 +245,8 @@ export default {
       ages: [],
       isAscendingOrder: false,  // 昇順かどうかを示すフラグ
       myfab: false, // menu
+      dialog: false, // 出典ダイアログ
+      dialogText: "" // ダイアログ内で表示されるテキスト
     };
   },
   // 起動時に実行
@@ -231,6 +277,10 @@ export default {
     selectedTopic() {
       return this.topics[this.selectedNum];
     },
+    dialogTextWithLineBreaks() {
+      // テキストファイルの内容から改行文字をHTMLの改行タグに変換
+      return this.dialogText.replace(/\n/g, '<br>');
+    }
   },
   // 通常の関数
   methods: {
@@ -266,7 +316,15 @@ export default {
       this.selectedTopic.contents.sort((a, b) => orderMultiplier * (a.gen - b.gen));
       // 切り替え
       this.isAscendingOrder = !this.isAscendingOrder;
-    }
+    },
+    // ダイアログオープン
+    openDialog() {
+      // ダイアログが開かれるときにテキストファイルを読み込む
+      axios.get(this.selectedTopic.image_path + 'source.txt').then(response => {
+        this.dialogText = response.data; // テキストファイルの内容を代入
+        this.dialog = true; // ダイアログを表示
+      });
+    },
   },
 };
 </script>
