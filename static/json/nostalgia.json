@@ -1,7 +1,7 @@
 {
     "topics": [
         {
-            "title": "思い出に残っている懐かしいゲーム機は？",
+            "title": "懐かしいゲーム機は？",
             "color": "teal darken-1",
             "image_path": "/img/nostalgia/game/",
             "contents": [
@@ -64,7 +64,7 @@
             "isVisible": "true"
         },
         {
-            "title": "思い出に残っている懐かしいジブリ作品は？",
+            "title": "懐かしいジブリ作品は？",
             "color": "pink darken-2",
             "image_path": "/img/nostalgia/ghibli/",
             "contents": [
@@ -132,7 +132,7 @@
             "isVisible": "true"
         },
         {
-            "title": "思い出に残っている懐かしいアニメは？",
+            "title": "懐かしいアニメは？",
             "color": "indigo",
             "image_path": "/img/nostalgia/anime/",
             "contents": [
@@ -210,7 +210,7 @@
             "isVisible": "true"
         },
         {
-            "title": "思い出に残っている教育番組は？",
+            "title": "懐かしい教育番組は？",
             "color": "brown darken-2",
             "image_path": "/img/nostalgia/eduTV/",
             "contents": [
@@ -278,7 +278,7 @@
             "isVisible": "true"
         },
         {
-            "title": "思い出に残っているDSゲームソフトは？",
+            "title": "懐かしいDSゲームソフトは？",
             "color": "blue-grey darken-1",
             "image_path": "/img/nostalgia/ds/",
             "contents": [
@@ -356,7 +356,7 @@
             "isVisible": "true"
         },
         {
-            "title": "思い出に残っている3DSゲームソフトは？",
+            "title": "懐かしい3DSゲームソフトは？",
             "color": "deep-purple darken-3",
             "image_path": "/img/nostalgia/3ds/",
             "contents": [
@@ -424,7 +424,7 @@
             "isVisible": "true"
         },
         {
-            "title": "思い出に残っているWiiゲームソフトは？",
+            "title": "懐かしいWiiゲームソフトは？",
             "color": "light-blue darken-3",
             "image_path": "/img/nostalgia/wii/",
             "contents": [
@@ -492,7 +492,7 @@
             "isVisible": "true"
         },
         {
-            "title": "思い出に残っている懐かしいアーケードゲームは？",
+            "title": "懐かしいアーケードゲームは？",
             "color": "deep-orange darken-4",
             "image_path": "/img/nostalgia/ACcard/",
             "contents": [
@@ -560,7 +560,7 @@
             "isVisible": "true"
         },
         {
-            "title": "思い出に残っている懐かしいドラマは？",
+            "title": "懐かしいドラマは？",
             "color": "green darken-4",
             "image_path": "/img/nostalgia/drama/",
             "contents": [
@@ -638,7 +638,7 @@
             "isVisible": "true"
         },
         {
-            "title": "思い出に残っている懐かしいおもちゃは？",
+            "title": "懐かしいおもちゃは？",
             "color": "cyan darken-3",
             "image_path": "/img/nostalgia/toys/",
             "contents": [
