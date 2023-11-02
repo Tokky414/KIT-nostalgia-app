@@ -1,12 +1,7 @@
 <template>
   <div class="main"
   style="height: 100%;"
-  v-touch="{
-        left: () => swipe('Left'),
-        right: () => swipe('Right'),
-        up: () => swipe('Up'),
-        down: () => swipe('Down'),
-      }">
+  >
     <!-- ーーーーーーーーーーーーーーーーーー -->
     <!-- 話題提示を行うカルーセル 　-->
     <!-- ーーーーーーーーーーーーーーーーーー　　-->
