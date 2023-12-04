@@ -1,6 +1,7 @@
 {
     "topics": [
         {
+            "id": "1",
             "title": "懐かしいゲーム機は何ですか？",
             "color": "teal darken-1",
             "image_path": "/img/nostalgia/game/",
@@ -64,6 +65,7 @@
             "isVisible": "true"
         },
         {
+            "id": "2",
             "title": "懐かしいジブリ作品は何ですか？",
             "color": "pink darken-2",
             "image_path": "/img/nostalgia/ghibli/",
@@ -132,6 +134,7 @@
             "isVisible": "true"
         },
         {
+            "id": "3",
             "title": "懐かしいアニメは何ですか？",
             "color": "indigo",
             "image_path": "/img/nostalgia/anime/",
@@ -210,6 +213,7 @@
             "isVisible": "true"
         },
         {
+            "id": "4",
             "title": "懐かしい教育番組は何ですか？",
             "color": "brown darken-2",
             "image_path": "/img/nostalgia/eduTV/",
@@ -278,6 +282,7 @@
             "isVisible": "true"
         },
         {
+            "id": "5",
             "title": "懐かしいDSゲームソフトは何ですか？",
             "color": "blue-grey darken-1",
             "image_path": "/img/nostalgia/ds/",
@@ -356,6 +361,7 @@
             "isVisible": "true"
         },
         {
+            "id": "6",
             "title": "懐かしい3DSゲームソフトは何ですか？",
             "color": "deep-purple darken-3",
             "image_path": "/img/nostalgia/3ds/",
@@ -424,6 +430,7 @@
             "isVisible": "true"
         },
         {
+            "id": "7",
             "title": "懐かしいWiiゲームソフトは何ですか？",
             "color": "light-blue darken-3",
             "image_path": "/img/nostalgia/wii/",
@@ -492,6 +499,7 @@
             "isVisible": "true"
         },
         {
+            "id": "8",
             "title": "懐かしいアーケードゲームは何ですか？",
             "color": "deep-orange darken-4",
             "image_path": "/img/nostalgia/ACcard/",
@@ -560,6 +568,7 @@
             "isVisible": "true"
         },
         {
+            "id": "9",
             "title": "懐かしいドラマは何ですか？",
             "color": "green darken-4",
             "image_path": "/img/nostalgia/drama/",
@@ -638,6 +647,7 @@
             "isVisible": "true"
         },
         {
+            "id": "10",
             "title": "懐かしいおもちゃは何ですか？",
             "color": "cyan darken-3",
             "image_path": "/img/nostalgia/toys/",

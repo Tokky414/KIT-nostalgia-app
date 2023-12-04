@@ -142,6 +142,7 @@ export default {
       nostalgia: 1,
       normal: 2,
       headers: [
+        { text: "ID", value: "id"},
         { text: "話題", value: "title", sortable: false },
         { text: "表示・非表示", value: "isVisible" },
       ],
